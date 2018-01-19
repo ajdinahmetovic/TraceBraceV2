@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TraceBrace</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_hint">Vasa poruka ide ovdje, na ovu poruku ce se atomatski dodati vasa lokacija ukoliko to dozvolite u opcijama TraceBrace Aplikacije</string>
+    <string name="tel_hint">Broj telefona</string>
+    <string name="succes1">Izmjena sacuvana</string>
+    <string name="error1">Doslo je do greske prilikom izmjene</string>
+    <string name="succes2">Izmjena ponistena</string>
+    <string name="succes3">Poruka uspjesno izbrisana</string>
+    <string name="error2">Doslo je do greske prilikom brisanja</string>
+    <string name="success4">Poruka uspjesno kreirana</string>
+    <string name="error3">Doslo je do greske prilikom kreiranja poruke</string>
+    <string name="za">Za:</string>
+    <string name="gps_error">TraceBrace ne moze da dobije vasu logaciju, molimo provjerite podesavanja</string>
+    <string name="gps_succes">TraceBrace ima pristip vasoj lokaciji, koja ce biti dodata u poruku</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="about">O nama</string>
+    <string name="sett1">Dozvoli GPS pracenje</string>
+    <string name="sett_group1">Opcije</string>
+
+</resources>

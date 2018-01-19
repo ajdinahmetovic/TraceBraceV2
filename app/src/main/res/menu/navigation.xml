@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/navigation_home"
+
+        android:icon="@drawable/mesage"
+        android:title="Poruke" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/location"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/settings"
+        android:title="Opcije" />
+
+</menu>
